@@ -4,7 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1>Congratulations! This is Deepak Naik</h1>
-<img src=shiva.jpeg>
+<img src=sa.jpg>
 
 <h2>You have successfully launched your Instance!</h2>
 
