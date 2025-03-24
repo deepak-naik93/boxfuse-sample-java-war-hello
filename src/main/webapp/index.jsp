@@ -4,7 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1>Congratulations! This is Deepak Naik</h1>
-<img src=sa.jpg>
+<img src=devops.jpeg>
 
 <h2>You have successfully launched your Instance!</h2>
 
