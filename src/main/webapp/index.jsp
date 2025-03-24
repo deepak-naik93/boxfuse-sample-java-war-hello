@@ -3,8 +3,8 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations! This is Deepak</h1>
-<img src="WhatsApp Image 2025-01-01 at 22.01.22_cf6d36f3.jpg" alt="Responcive Image">
+<h1>Congratulations! This is Deepak Naik</h1>
+<img src=shiva.jpeg>
 
 <h2>You have successfully launched your Instance!</h2>
 
